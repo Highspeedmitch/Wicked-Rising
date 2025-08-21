@@ -1,0 +1,7 @@
+{
+  "units": [
+    { "id": "b1", "team": "BLUE", "x": 2, "y": 2, "move": 4, "atk": 8, "def": 4, "hp": 18, "maxHp": 18 },
+    { "id": "b2", "team": "BLUE", "x": 4, "y": 3, "move": 5, "atk": 6, "def": 5, "hp": 16, "maxHp": 16 },
+    { "id": "r1", "team": "RED",  "x": 9, "y": 5, "move": 4, "atk": 7, "def": 3, "hp": 14, "maxHp": 14 }
+  ]
+}
