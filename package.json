@@ -1,0 +1,22 @@
+{
+"name": "fe-ios-starter",
+"version": "0.1.0",
+"private": true,
+"scripts": {
+"dev": "vite",
+"build": "vite build && tsc --noEmit",
+"preview": "vite preview",
+"ios:add": "npx cap add ios",
+"ios:copy": "npx cap copy ios",
+"ios:open": "npx cap open ios"
+},
+"dependencies": {
+"phaser": "^3.70.0"
+},
+"devDependencies": {
+"typescript": "^5.5.3",
+"vite": "^5.4.0",
+"@capacitor/cli": "^6.1.2",
+"@capacitor/ios": "^6.1.2"
+}
+}
